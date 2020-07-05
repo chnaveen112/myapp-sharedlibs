@@ -1,3 +1,3 @@
 def call(name){
-  printin("hi ${name},welcome to jenkins")
+  printIn("hi ${name},welcome to jenkins")
 }
